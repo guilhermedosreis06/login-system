@@ -39,31 +39,9 @@ O sistema implementa cadastro, login, controle de sessão e proteção de rotas,
 
 ---
 
-## 📂 Estrutura do Projeto
-
-login-system/
-│
-├── config/
-│ └── database.php
-│
-├── public/
-│ ├── login.php
-│ ├── register.php
-│ ├── dashboard.php
-│ └── logout.php
-│
-├── includes/
-│ └── auth.php
-│
-├── sql/
-│ └── database.sql
-│
-└── README.md
-
----
-
 ## ▶️ Como Executar o Projeto
 
 1. Clone o repositório:
 ```bash
+
 git clone https://github.com/seu-usuario/seu-repositorio.git
